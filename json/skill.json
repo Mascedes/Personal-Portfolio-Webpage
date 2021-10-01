@@ -1,0 +1,57 @@
+{
+  "html5": {
+    "title": "Hypertext Markup Language (HTML)",
+    "penjelasan": "Hypertext Markup Language adalah bahasa markah standar untuk dokumen yang dirancang untuk ditampilkan di peramban internet. Ini dapat dibantu oleh teknologi seperti Cascading Style Sheets dan bahasa scripting seperti JavaScript dan VBScript.",
+    "link": "https://id.wikipedia.org/wiki/HTML"
+  },
+  "css": {
+    "title": "Cascading Style Sheet (CSS)",
+    "penjelasan": "Cascading Style Sheet merupakan aturan untuk mengatur beberapa komponen dalam sebuah web sehingga akan lebih terstruktur dan seragam. CSS bukan merupakan bahasa pemograman.",
+    "link": "https://id.wikipedia.org/wiki/Cascading_Style_Sheets"
+  },
+  "javascript": {
+    "title": "JavaScript (JS)",
+    "penjelasan": "JavaScript (disingkat JS) adalah bahasa pemrograman tingkat tinggi dan dinamis. JavaScript populer di internet dan dapat bekerja di sebagian besar penjelajah web populer seperti Google Chrome, Internet Explorer (IE), Mozilla Firefox, Netscape dan Opera. Kode JavaScript dapat disisipkan dalam halaman web menggunakan tag SCRIPT. JavaScript merupakan salah satu teknologi inti World Wide Web selain HTML dan CSS. JavaScript membantu membuat halaman web interaktif dan merupakan bagian aplikasi web yang esensial.",
+    "link": "https://id.wikipedia.org/wiki/JavaScript"
+  },
+  "php": {
+    "title": "Hypertext Preprocessor (PHP)",
+    "penjelasan": "PHP: Hypertext Preprocessor[3] (sebelumnya disebut Personal Home Pages) adalah bahasa skrip yang dapat ditanamkan atau disisipkan ke dalam HTML. PHP banyak dipakai untuk memprogram situs web dinamis. PHP dapat digunakan untuk membangun sebuah CMS.",
+    "link": "https://id.wikipedia.org/wiki/PHP"
+  },
+  "sass": {
+    "title": "Syntactically Awesome Style Sheets (Sass)",
+    "penjelasan": "Sass adalah bahasa skrip preprosesor yang ditafsirkan atau dikompilasi ke dalam Cascading Style Sheets. SassScript adalah bahasa scripting itu sendiri. Sass terdiri dari dua sintaks. Sintaks asli, yang disebut sintaks indentasi, menggunakan sintaksis yang mirip dengan Haml",
+    "link": "https://en.wikipedia.org/wiki/Sass_(stylesheet_language)"
+  },
+  "bootstrap": {
+    "title": "Bootstrap",
+    "penjelasan": "Bootstrap adalah kerangka kerja CSS yang sumber terbuka dan bebas untuk merancang situs web dan aplikasi web. Kerangka kerja ini berisi templat desain berbasis HTML dan CSS untuk tipografi, formulir, tombol, navigasi, dan komponen antarmuka lainnya, serta juga ekstensi opsional JavaScript. Tidak seperti kebanyakan kerangka kerja web lainnya, kerangka kerja ini hanya fokus pada pengembangan front-end saja.",
+    "link": "https://id.wikipedia.org/wiki/Bootstrap_(kerangka_kerja)"
+  },
+  "materialize": {
+    "title": "Materialize",
+    "penjelasan": "Created and designed by Google, Material Design is a design language that combines the classic principles of successful design along with innovation and technology. Google's goal is to develop a system of design that allows for a unified user experience across all their products on any platform.",
+    "link": "https://materializecss.com/about.html"
+  },
+  "codeigniter": {
+    "title": "CodeIgniter",
+    "penjelasan": "CodeIgniter merupakan aplikasi sumber terbuka yang berupa kerangka kerja PHP dengan model MVC (Model, View, Controller) untuk membangun situs web dinamis dengan menggunakan PHP. CodeIgniter memudahkan pengembang web untuk membuat aplikasi web dengan cepat dan mudah dibandingkan dengan membuatnya dari awal. CodeIgniter dirilis pertama kali pada 28 Februari 2006.",
+    "link": "https://id.wikipedia.org/wiki/CodeIgniter"
+  },
+  "laravel": {
+    "title": "Laravel",
+    "penjelasan": "Laravel adalah kerangka kerja aplikasi web berbasis PHP yang sumber terbuka, menggunakan konsep Model-View-Controller (MVC). Laravel berada dibawah lisensi MIT, dengan menggunakan GitHub sebagai tempat berbagi kode.",
+    "link": "https://id.wikipedia.org/wiki/Laravel"
+  },
+  "mysql": {
+    "title": "MySQL",
+    "penjelasan": "MySQL adalah sebuah perangkat lunak sistem manajemen basis data SQL (bahasa Inggris: database management system) atau DBMS yang multialur, multipengguna, dengan sekitar 6 juta instalasi di seluruh dunia. MySQL AB membuat MySQL tersedia sebagai perangkat lunak gratis di bawah lisensi GNU General Public License (GPL), tetapi mereka juga menjual di bawah lisensi komersial untuk kasus-kasus di mana penggunaannya tidak cocok dengan penggunaan GPL.",
+    "link": "https://id.wikipedia.org/wiki/MySQL"
+  },
+  "mariadb": {
+    "title": "MariaDB",
+    "penjelasan": "MariaDB merupakan versi pengembangan terbuka dan mandiri dari MySQL. Sejak diakuisisinya MySQL oleh Oracle pada September 2010, Monty Program sebagai penulis awal kode sumber MySQL memisahkan diri dari pengembangan dan membuat versi yang lebih mandiri yakni MariaDB.",
+    "link": "https://id.wikipedia.org/wiki/MariaDB"
+  }
+}
